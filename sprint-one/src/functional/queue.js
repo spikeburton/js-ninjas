@@ -17,6 +17,3 @@ var Queue = function(){
 
   return someInstance;
 };
-
-
-//sdcscsdcsdc
